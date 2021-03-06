@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+conda_environment_geoprogv1/.DS_Store
+geoprog_notebooks_01/.DS_Store
+geoprog_notebooks_02/out/.DS_Store
+geoprog_notebooks_02/tmp/.DS_Store
+geoprog_notebooks_02/data/.DS_Store
+geoprog_notebooks_02/.DS_Store

@@ -1,0 +1,25 @@
+name: geoprogv1
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - cartopy
+  - gdal
+  - contextily
+  - dill
+  - osmnx
+  - geopandas
+  - jupyterlab
+  - geoplot
+  - pandana
+  - urbanaccess
+  - folium
+  - esda
+  - pysal
+  - rasterio
+  - rasterstats
+  - pointpats
+  - pandas
+  - spaghetti
+  - geocoder
+  - spacy
