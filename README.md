@@ -29,6 +29,13 @@ These are the topic covered with the corresponding Python packages:
 All the notebooks in this repository run on an **Anaconda3 environment** defined in `condaenv_geoprogv1.yml` (see folder `conda_environment_geoprogv1`).
 The notebooks were developed and tested on Mac OS Big Sur and Windows 10.
 
+## License 
+
+All the content in the Jupyter Notebooks is licensed under
+**Creative Commons Attribution-NonCommercial-ShareAlike (CC-BY-NC-SA)**.
+[![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 ## Last update
 
 March 2021
+
