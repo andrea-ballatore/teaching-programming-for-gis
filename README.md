@@ -17,7 +17,7 @@ These are the topic covered with the corresponding Python packages:
 - 03: Defining functions (Python)
 - 04: Vector data (`geopandas`)
 - 05: Raster data (`rasterio`, `rasterstats`)
-- 06: Network analysis (`networkx`)
+- 06: Network analysis (`networkx`, `osmnx`)
 - 07: Machine learning (clustering) and Natural Language Processing (`sklearn`, `spacy`)
 
 ## Author
