@@ -2,10 +2,16 @@
 
 ## Abstract
 
-This teaching material has been developed for a MSc module on programming for geospatial data science.
-It contains a set of Juypter Notebooks to introduce students to the programming core concepts in Python and to packages to load, process, visualise, and analyse geospatial data.
+This teaching material has been developed for a MSc module on programming for geographic data science at Birkbeck, University of London.
+
+This repository contains a set of Juypter Notebooks to introduce students to the programming core concepts in Python and to packages to load, process, visualise, and analyse geospatial data.
 
 The examples include data from the [Open Geospatial Datasets for GIS Education](https://github.com/andrea-ballatore/open-geo-data-education) repository.
+
+## Conda environment
+
+All the notebooks in this repository run on an **Anaconda3 environment** defined in `condaenv_geoprogv1.yml` (see folder `conda_environment_geoprogv1`).
+The notebooks were developed and tested on Mac OS Big Sur and Windows 10. Python version: 3.9.
 
 ## Content
 
@@ -24,14 +30,10 @@ These are the topic covered with the corresponding Python packages:
 
 [Andrea Ballatore](https://aballatore.space) (Birkbeck, University of London)
 
-## Conda environment
-
-All the notebooks in this repository run on an **Anaconda3 environment** defined in `condaenv_geoprogv1.yml` (see folder `conda_environment_geoprogv1`).
-The notebooks were developed and tested on Mac OS Big Sur and Windows 10.
 
 ## License 
 
-All the content in the Jupyter Notebooks is licensed under
+All the content in this repository (except the example datasets) is licensed under
 **Creative Commons Attribution-NonCommercial-ShareAlike (CC-BY-NC-SA)**.
 [![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
