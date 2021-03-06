@@ -13,12 +13,12 @@ Each set includes 3 notebooks, named as **content**, **exercises**, and **soluti
 These are the topic covered with the corresponding Python packages:
 
 - 01: Data types and variables (Python)
-- 02: Control structures and Pandas data frames (`pandas`)
-- 03: Defining functions (Python)
+- 02: Control structures; Pandas data frames (`pandas`)
+- 03: Defining functions; temporal data (Python)
 - 04: Vector data (`geopandas`)
 - 05: Raster data (`rasterio`, `rasterstats`)
 - 06: Network analysis (`networkx`, `osmnx`)
-- 07: Machine learning (clustering) and Natural Language Processing (`sklearn`, `spacy`)
+- 07: Machine learning (`sklearn`); Natural Language Processing (`spacy`)
 
 ## Author
 
